@@ -1,0 +1,1 @@
+console.log('GoldConstruction site final prêt');
